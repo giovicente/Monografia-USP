@@ -1,0 +1,14 @@
+SCHWABER, Ken & SUTHERLAND, Jeff. Um guia definitivo para o Scrum: As
+regras do jogo. Disponível em:
+<http://www.scrumguides.org/scrumgruides/v1/Scrum-guide-Portuguese-BR.pdf>.
+Junho de 2013. Acesso em agosto de 2020.
+
+WELLS, Don Extreme Programming:
+A gentle introduction <http://www.extremeprogramming.org/>
+
+WELLS, Don XP Collective Code Ownership <http://www.extremeprogramming.org/map/code.html>. 2000. Setembro 2020
+
+HENRAJANI, A. Desenvolvimento ágil em Java com Spring, Hibernate e Eclipse.
+São Paulo: Pearson Prentice Hall, 2007.
+
+PAULK, Mark C., Agile Methodologies and Process Discipline. Carnegie Melon Software Engineering Institute, 2002
