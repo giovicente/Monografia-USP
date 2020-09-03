@@ -12,3 +12,14 @@ HENRAJANI, A. Desenvolvimento ágil em Java com Spring, Hibernate e Eclipse.
 São Paulo: Pearson Prentice Hall, 2007.
 
 PAULK, Mark C., Agile Methodologies and Process Discipline. Carnegie Melon Software Engineering Institute, 2002
+
+R. Latorre, “Effects of Developer Experience on Learning and Applying Unit Test-Driven Development,” in IEEE Transactions on Software Engineering. IEEE, 2013.
+
+
+KENT, Beck. Test Driven Development: By Example, Addison-Wesley Longman
+Publishing Co., Inc., Boston, MA, 2002. 20-81p.
+
+Robert C. Martin, “Código Limpo: Habilidades Práticas do Agile Software,” 2008, 122 p.
+
+Beck, Kent.
+extreme programming explained: embrace change / Kent Beck with Cynthia Andres. — 2nd edition, Pearson Education, Inc., 189 p.
