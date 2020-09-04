@@ -23,3 +23,9 @@ Robert C. Martin, “Código Limpo: Habilidades Práticas do Agile Software,” 
 
 Beck, Kent.
 extreme programming explained: embrace change / Kent Beck with Cynthia Andres. — 2nd edition, Pearson Education, Inc., 189 p.
+
+Olivério, Gabriel http://broncodev.com/2016-10-11-introduzindo-o-bdd/. 2016. acesso em 4/9.
+
+WYNNE, Matt & HELLESØY, Aslak. The Cucumber Book: Behaviour-Driven Development for Testers and Developers. Publisher: Pragmatic Bookshelf, 2012. 3-8p.
+
+HELLESØY, Aslak. https://news.ycombinator.com/item?id=10194242, acesso em 4/9.
