@@ -29,3 +29,5 @@ Olivério, Gabriel http://broncodev.com/2016-10-11-introduzindo-o-bdd/. 2016. ac
 WYNNE, Matt & HELLESØY, Aslak. The Cucumber Book: Behaviour-Driven Development for Testers and Developers. Publisher: Pragmatic Bookshelf, 2012. 3-8p.
 
 HELLESØY, Aslak. https://news.ycombinator.com/item?id=10194242, acesso em 4/9.
+
+Sondermann, Danielli & Vignati, Monia & Baldo, Yvina & Passos, Marize & Albernaz, Jussara. (2013). O DESAFIO DO PROCESSO DE COMUNICAÇÃO EFICAZ FRENTE A HETEROGENEIDADE DOS ALUNOS NA MODALIDADE A DISTÂNCIA: PERSPECTIVAS A PARTIR DO UNIVERSAL DESIGN FOR LEARNING-DESIGN UNIVERSAL PARA APRENDIZAGEM.
