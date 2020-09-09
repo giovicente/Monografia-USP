@@ -1,7 +1,7 @@
 SCHWABER, Ken & SUTHERLAND, Jeff. Um guia definitivo para o Scrum: As
 regras do jogo. Disponível em:
-<http://www.scrumguides.org/scrumgruides/v1/Scrum-guide-Portuguese-BR.pdf>.
-Junho de 2013. Acesso em agosto de 2020.
+<https://www.scrumguides.org/docs/scrumguide/v2017/2017-Scrum-Guide-Portuguese-Brazilian.pdf>.
+Outubro de 2017. Acesso em agosto de 2020.
 
 WELLS, Don Extreme Programming:
 A gentle introduction <http://www.extremeprogramming.org/>
@@ -41,3 +41,5 @@ Williams, K. Y., C. A. O’Reilly. 1998. Demography and diversity in
 organizations: A review of 40 years of research. B. M. Staw,
 L. L. Cummings, eds. Research in Organizational Behavior,
 Vol. 20. JAI Press, Greenwich, CT, 77–140.
+
+http://www.productmanagement.com.br/por-que-e-como-fazer-refinement-meeting-anteriormente-backlog-grooming/. BALDINI, acesso 9/9.
