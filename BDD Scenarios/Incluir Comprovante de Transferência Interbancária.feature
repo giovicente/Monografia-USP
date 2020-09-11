@@ -21,7 +21,7 @@ Cenário: Incluir comprovante de transferência interbancária (conta origem e d
     | Agência                 | agencia_destino                | Alfanumérico           | 4                       | Não se Aplica                        | 9999              |
     | Conta                   | conta_destino                  | Alfanumérico           | 12                      | 9999999999-9                         | 0000999999-9      |
     | Valor                   | simbolo_moeda + valor_operacao | Alfanumérico + Decimal | 4 + 13                  | XXXX9999999999,99 (XXXX = moeda)     | R$150,00          |
-    | Finalidade              | finanlidade_transferencia      | Alfanumérico           | 256                     | Não se Aplica                        | Crédito em Conta  |
+    | Finalidade              | finalidade_transferencia       | Alfanumérico           | 256                     | Não se Aplica                        | Crédito em Conta  |
 
     | Dados de Rodapé                                                                                                                                                        |
     | Label do campo no canal | Nome do campo no sistema       | Tipo Campo             | Tamanho (em caracteres) | Máscara de Formatação                | Exemplo           |
