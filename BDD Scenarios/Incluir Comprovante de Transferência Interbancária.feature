@@ -6,7 +6,7 @@ Cenário: Incluir comprovante de transferência interbancária (conta origem e d
     Quando o cliente autoriza a realização de uma transferência bancária ao clicar em "Efetuar Operação"
 
     Então o comprovante da operação é armazenado e apresentado ao cliente conforme regras especificadas abaixo (todos os campos são obrigatórios e a ordem de campos deve ser respeitada):
-    | Dados da Conta Origem                                                                                                                              |
+    | Dados da Conta Origem                                                                                                                                                  |
     | Label do campo no canal | Nome do campo no sistema       | Tipo Campo             | Tamanho (em caracteres) | Máscara de Formatação                | Exemplo           |
     | Nome                    | nome_cliente                   | Alfanumérico           | 256                     | Não se Aplica                        | Giovanni Vicente  |
     | Agência                 | agencia_origem                 | Alfanumerico           | 4                       | Não se Aplica                        | 9999              |
