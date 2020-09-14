@@ -1,0 +1,35 @@
+LAZĂR, Ioan; MOTOGNA, Simona; PÂRV, Bazil. Behaviour-driven development of foundational UML components. Electronic Notes in Theoretical Computer Science, v. 264, n. 1, p. 91-105, 2010.
+
+HINDS, Pamela J.; BAILEY, Diane E. Out of sight, out of sync: Understanding conflict in distributed teams. Organization science, v. 14, n. 6, p. 615-632, 2003.
+
+HÄSER, Florian; FELDERER, Michael; BREU, Ruth. Is business domain language support beneficial for creating test case specifications: A controlled experiment. Information and software technology, v. 79, p. 52-62, 2016.
+
+OLIVEIRA, Gabriel; MARCZAK, Sabrina. On the empirical evaluation of BDD scenarios quality: preliminary findings of an empirical study. In: 2017 IEEE 25th International Requirements Engineering Conference Workshops (REW). IEEE, 2017. p. 299-302.
+
+SEDANO, Todd; RALPH, Paul; PÉRAIRE, Cécile. The product backlog. In: 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE). IEEE, 2019. p. 200-211.
+
+VERNER, June; SAMPSON, Jennifer; CERPA, Narciso. What factors lead to software project failure?. In: 2008 Second International Conference on Research Challenges in Information Science. IEEE, 2008. p. 71-80.
+
+BITTNER, Kurt. When requirements go bad. Ivar Jacobson Consulting Whitepaper, 2008.
+
+PAULK, Mark C. Agile methodologies and process discipline. 2002.
+
+LATORRE, Roberto. Effects of developer experience on learning and applying unit test-driven development. IEEE Transactions on Software Engineering, v. 40, n. 4, p. 381-395, 2013.
+
+BECK, Kent. Test-driven development: by example. Addison-Wesley Professional, 2003.
+
+MARTIN, Robert C. Código Limpo: Habilidades Práticas do Agile Software. Pearson Education, 2008.
+
+BECK, Kent. Extreme programming explained: embrace change. addison-wesley professional, 2000.
+
+WYNNE, Matt; HELLESØY, Aslak; TOOKE, Steve. The cucumber book: behaviour-driven development for testers and developers. Pragmatic Bookshelf, 2017.
+
+SONDERMANN, Danielli Veiga Carneiro et al. O desafio do processo de comunicação eficaz frente a heterogeneidade dos alunos na modalidade a distância: perspectivas a partir do Universal Design for Learning-Design Universal para Aprendizagem. Em: ESUD 2013 - X CONGRESSO BRASILEIRO DE ENSINO SUPERIOR A DISTÂNCIA.
+
+WILLIAMS, K. Y.; O'REILLY III, C. A. Demography and Diversity in Organisations: A review of 40 years of research in BM Staw and LL Cummings (eds) Research in Organisational Behaviour Vol. 20. Jai Pres, Connecticut, 1998.
+
+COHN, Mike. User stories applied: For agile software development. Addison-Wesley Professional, 2004.
+
+EVANS, Eric. Domain-driven design: tackling complexity in the heart of software. Addison-Wesley Professional, 2004.
+
+HENRAJANI, A. Desenvolvimento ágil em Java com Spring, Hibernate e Eclipse. São Paulo: Pearson Prentice Hall, 2007.

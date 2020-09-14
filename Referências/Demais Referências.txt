@@ -8,8 +8,7 @@ A gentle introduction <http://www.extremeprogramming.org/>
 
 WELLS, Don XP Collective Code Ownership <http://www.extremeprogramming.org/map/code.html>. 2000. Setembro 2020
 
-HENRAJANI, A. Desenvolvimento ágil em Java com Spring, Hibernate e Eclipse.
-São Paulo: Pearson Prentice Hall, 2007.
+HENRAJANI, A. Desenvolvimento ágil em Java com Spring, Hibernate e Eclipse. São Paulo: Pearson Prentice Hall, 2007.
 
 PAULK, Mark C., Agile Methodologies and Process Discipline. Carnegie Melon Software Engineering Institute, 2002
 
@@ -43,3 +42,6 @@ L. L. Cummings, eds. Research in Organizational Behavior,
 Vol. 20. JAI Press, Greenwich, CT, 77–140.
 
 http://www.productmanagement.com.br/por-que-e-como-fazer-refinement-meeting-anteriormente-backlog-grooming/. BALDINI, acesso 9/9.
+
+SMARTBEAR SOFTWARE©. Gherkin Reference - Cucumber Documentation. https://cucumber.io/docs/gherkin/reference/. Acesso em 14/09.
+
