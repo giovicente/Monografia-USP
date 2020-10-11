@@ -33,3 +33,5 @@ COHN, Mike. User stories applied: For agile software development. Addison-Wesley
 EVANS, Eric. Domain-driven design: tackling complexity in the heart of software. Addison-Wesley Professional, 2004.
 
 HENRAJANI, A. Desenvolvimento ágil em Java com Spring, Hibernate e Eclipse. São Paulo: Pearson Prentice Hall, 2007.
+
+FIELDING, Roy T.; TAYLOR, Richard N. Architectural styles and the design of network-based software architectures. Irvine: University of California, Irvine, 2000.
