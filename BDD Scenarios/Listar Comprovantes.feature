@@ -16,4 +16,4 @@ Cenário: Consultar lista de comprovantes
   | Tipo Operação          | tipo_operacao                  | Alfanumerico           | 60                      | N/A                              | Transferência Interbancária          |
   | Canal Origem           | canal_origem                   | Alfanumerico           | 30                      | N/A                              | Internet                             |
   | Valor                  | simbolo_moeda + valor_operacao | Alfanumérico + Decimal | 4 + 13                  | XXXX9999999999,99 (XXXX = moeda) | R$420,00                             |
-  | Link para consulta     | identificador_comprovante      | Alfanumerico           | 36                      | UUID                             | 897e7fb1-1b38-4381-996c-fbddb3c23298 |
+  | Link para visualizar   | identificador_comprovante      | Alfanumerico           | 36                      | UUID                             | 897e7fb1-1b38-4381-996c-fbddb3c23298 |
