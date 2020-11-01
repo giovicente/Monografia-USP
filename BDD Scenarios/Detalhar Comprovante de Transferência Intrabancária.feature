@@ -8,7 +8,7 @@ Cenário: Consultar comprovante de transferência intrabancária (conta origem e
     | Label do campo no canal | Nome do campo no sistema       | Tipo Campo             | Tamanho (em caracteres) | Máscara de Formatação            | Exemplo          |
     | Nome                    | nome_cliente                   | Alfanumérico           | 256                     | Não se Aplica                    | Giovanni Vicente |
     | Agência                 | agencia_origem                 | Alfanumerico           | 4                       | Não se Aplica                    | 9999             |
-    | Conta                   | conta_origem                   | Alfanumérico           | 12                      | 999999999-9                      | 0000999999-9     |
+    | Conta                   | conta_origem                   | Alfanumérico           | 12                      | 9999999999-9                     | 0000999999-9     |
 
     | Dados da Conta Destino                                                                                                                                            |
     | Label do campo no canal | Nome do campo no sistema       | Tipo Campo             | Tamanho (em caracteres) | Máscara de Formatação            | Exemplo          |

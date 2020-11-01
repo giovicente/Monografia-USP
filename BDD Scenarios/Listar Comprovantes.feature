@@ -6,7 +6,7 @@ Cenário: Consultar lista de comprovantes
   E os dados da consulta são informados no formato abaixo
   | Nome do campo no canal | Nome do campo no sistema | Tipo Campo   | Tamanho (em caracteres) | Máscara de Formatação | Exemplo      |
   | Agência                | agencia_origem           | Alfanumerico | 4                       | Não se Aplica         | 9999         |
-  | Conta                  | conta_origem             | Alfanumérico | 12                      | 999999999-9           | 0000999999-9 |
+  | Conta                  | conta_origem             | Alfanumérico | 12                      | 9999999999-9          | 0000999999-9 |
   | Período Inicial        | data_inicio_consulta     | Alfanumérico | 10                      | DD.MM.AAAA            | 10.10.2020   |
   | Período Final          | data_fim_consulta        | Alfanumérico | 10                      | DD.MM.AAAA            | 10.10.2020   |
 
