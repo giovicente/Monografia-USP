@@ -1,0 +1,1 @@
+20210117-1: reescrever seção 2.2 para elucidar a seguinte consideração da versão da monografia para a qualificação: não é claro por que a engenharia de requisitos precisa de um meio próprio para facilitar as comunicações de projeto e não o projeto todo.
