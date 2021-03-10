@@ -1,0 +1,8 @@
+- Obetivo e Metodologia se confundem um pouco
+- No objetivo, além de propor, colocar "propor e aplicar"
+- Figura 10 e 11 são iguais
+- Considerações do Cap 4 podem se referir à análise dos resultados e Cap 5 pode ser mais direcionado àquilo que está no slide das conclusões
+- O termo ubíquo, ao invés de comum, pode ser traduzido para "global"
+- Ao invés de tabelas de práticas, colocar como tabela com recomendações
+- Explicar melhor o ponto de que requisitos são comportamentos, também
+- Colocar qual item da tabela de práticas foi aplicado no estudo
